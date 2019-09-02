@@ -1,2 +1,2 @@
 # sdk
-Swiss Development Kit
+Swiss Development Knife
